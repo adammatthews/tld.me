@@ -139,7 +139,7 @@ function inputColour()
 </div>
 
 <footer>
-<a href="http://apm.x10.mx">side project by adam matthews</a>
+<a href="ttps://adammatthews.co.uk">side project by adam matthews</a>
 </footer>
 </div>
 </body>
